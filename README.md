@@ -1,7 +1,5 @@
 ☁️ Eu sou o Golem!
 
-🌱 Desenvolvedor de BOTs e experiente em desistir de aprender HTML e outras linguagens...
+🌱 Desenvolvedor de BOTs e experiente em desistir de aprender HTML, CSS, Java e outras linguagens...
 
-🌱 Iniciante em JavaPlugin para plugins de Minecraft.
-
-🎮 Jogador de Minecraft nas horas vagas.
+🎮 Jogador de qualquer coisa nas horas vagas.
