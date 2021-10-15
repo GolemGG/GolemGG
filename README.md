@@ -1,5 +1,10 @@
-☁️ Eu sou o Golem!
+### hello!
 
-🌱 Desenvolvedor de BOTs e experiente em desistir de aprender HTML, CSS, Java e outras linguagens...
 
-🎮 Jogador de qualquer coisa nas horas vagas.
+
+<a href="https://github.com/mztheus/github-readme-stats"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mztheus&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/mztheus/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mztheus&theme=dracula" />
+</a>
